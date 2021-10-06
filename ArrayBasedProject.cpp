@@ -6,7 +6,7 @@
 using namespace std;
 
 int n;			// array size
-int arr[10000]; // store the valur
+int arr[10000]; // store the value
 
 // sorting function
 void sort()
