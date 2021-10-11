@@ -1,12 +1,20 @@
 # Data-Structure-
-Implementation of Data Structure. 
-
+Implemented Data Structure. 
+* Array
+    * Insert
+    * Delete
+    * Sort ( Bubble sort) 
+    * Searching (Linear, Binary search) 
 * Stack
     * push()
     * pop()
 * Queue
     * QInsert()
     * QDelete();
+* Linked List
+    * Traversing 
+    * Searching 
+
 ## Data Structure Project 
 * DS CRUD Project based on Array. This project is created by raw code without using any built-in function.  
  * Feature
