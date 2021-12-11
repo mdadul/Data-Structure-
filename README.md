@@ -14,9 +14,16 @@ Implemented Data Structure.
 * Linked List
     * Traversing 
     * Searching 
+* Tree (BST)
 
+    * Create Tree
+    * Insert Element 
+    * Search 
+
+____________________________
 ## Data Structure Project 
 ### DS CRUD Project based on Array. This project is created by raw code without using any built-in function.  
+____________________________
  * Feature
     * Create an Array by random number 
     * Insert element in the array (Algorithm use: Insertion sort)
