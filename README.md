@@ -16,11 +16,20 @@ Implemented Data Structure.
     * Searching 
 
 ## Data Structure Project 
-* DS CRUD Project based on Array. This project is created by raw code without using any built-in function.  
+### DS CRUD Project based on Array. This project is created by raw code without using any built-in function.  
  * Feature
     * Create an Array by random number 
     * Insert element in the array (Algorithm use: Insertion sort)
     * Delete element from the array
     * Search element ( Algorithm use : Binary Search) 
     * Show all elements 
+### Covid-19 Patient Management System. 
+  _______________________
+  | Using Linked List   |
+  -----------------------
+  * Feature 
+     * Add Record 
+          * Patient Id, Patient Name, Patients Address, Email, Blood Group, Covid-19 Last test report date. 
+     * Display 
+     * Exit
     
